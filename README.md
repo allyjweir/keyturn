@@ -9,8 +9,7 @@ The materials included are:
  - Deck of slides to present workshop with
  - Presenter's notes
  - An information pack for presenters giving surrounding information
- - Worksheet of codes for students to decrypt
- - Worksheet on coding a cypher for encrypting/decrypting messages in VisualBasic or Python
-
+ - Template for Caeser Cipher wheels to use as part of activity
+ 
 For more information or any help required, please find my email on my profile.  
 If you see any errors or improvements to make, please make a pull request!
